@@ -25,6 +25,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [💻 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -43,7 +44,7 @@
 
 # 📖 [Space Travelers' Hub] <a name="about-project"></a>
 
-**[Space Travelers' Hub]** is a project where we worked with the real live data from the SpaceX API. We build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+**[Space Travelers' Hub]** is a project where we worked with real live data from the SpaceX API. We build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -79,7 +80,10 @@
 
 - **[key_feature_1]** Configured linters for react app
 - **[key_feature_2]** Basic CRUD application using React
-- **[key_feature_3]** Professional readme file 
+- **[key_feature_3]** Professional readme file
+
+## 💻 Live Demo <a name="live-demo"></a>
+[Here](https://space-travellers-hub-ns1r.onrender.com/) is the link to the live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
