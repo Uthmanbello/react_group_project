@@ -83,7 +83,7 @@
 - **[key_feature_3]** Professional readme file
 
 ## 💻 Live Demo <a name="live-demo"></a>
-[Here](https://space-travellers-hub-ns1r.onrender.com/) is the link to the live demo
+[Here](https://space-travellers-hub-two.vercel.app/) is the link to the live demo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
